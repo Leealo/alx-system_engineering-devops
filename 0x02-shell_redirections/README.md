@@ -9,3 +9,4 @@ added file 6 -This script displays third line of file iacta
 added file 7 -This script creates file Best School
 added file 8 -This script writes into ls-cwd-content file
 added file 9 -This script duplicates last line of iacta
+added file 10 -This script deletes .js files in current directory

@@ -7,3 +7,4 @@ added file 4 -This script displays last 10 lines of /etc/passwd
 added file 5 -This script displays first 10 lines of /etc/passwd
 added file 6 -This script displays third line of file iacta
 added file 7 -This script creates file Best School
+added file 8 -This script writes into ls-cwd-content file

@@ -11,3 +11,4 @@ added file 8 -This script writes into ls-cwd-content file
 added file 9 -This script duplicates last line of iacta
 added file 10 -This script deletes .js files in current directory
 added file 11 -This script counts number of directories and subdiradded file 12 -This script displays sorted 10 new files
+added file 13 -This script displays words tha appear once

@@ -19,3 +19,4 @@ added file 17 - Script will display everything but bin pattern
 added file 18 - Script will display lines starting with a letter
 added file 19 - Script will replace A to c and Z to e
 added file 20 - Script will remove c and C
+added file 21 - Script will reverse input

@@ -20,3 +20,4 @@ added file 18 - Script will display lines starting with a letter
 added file 19 - Script will replace A to c and Z to e
 added file 20 - Script will remove c and C
 added file 21 - Script will reverse input
+added file 22 - Script will sort all users and display home dir

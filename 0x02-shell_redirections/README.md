@@ -15,3 +15,4 @@ added file 13 -This script displays words tha appear once
 added file 14 -This script displays the patten in /etc/passwd
 added file 15 -This script displays number of lines bin pattern
 added file 16 - Script will display root pattern and three lines
+added file 17 - Script will display everything but bin pattern

@@ -23,3 +23,4 @@ added file 21 - Script will reverse input
 added file 22 - Script will sort all users and display home dir
 added file 100 - Script will find all empty dir, files, subdir
 added file 101 - Script will list all files with .gif extension
+added file 102 - Script will decode arcostics

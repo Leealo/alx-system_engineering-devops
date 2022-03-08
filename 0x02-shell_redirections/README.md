@@ -14,3 +14,4 @@ added file 11 -This script counts number of directories and subdiradded file 12 
 added file 13 -This script displays words tha appear once
 added file 14 -This script displays the patten in /etc/passwd
 added file 15 -This script displays number of lines bin pattern
+added file 16 - Script will display root pattern and three lines
